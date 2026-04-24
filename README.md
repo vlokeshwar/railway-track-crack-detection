@@ -7,7 +7,9 @@ This project presents an autonomous railway track inspection system that detects
 🎯 Features
 
 ✅ Real-time crack detection using YOLOv5
+
 ✅ Achieves 91.4% mAP@0.5
+
 ✅ Runs at 15–20 FPS on Raspberry Pi
 ✅ Dual-controller architecture (ESP32 + Raspberry Pi)
 ✅ IR sensor-based pre-detection for efficiency
