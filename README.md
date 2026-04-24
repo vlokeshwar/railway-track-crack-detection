@@ -1,4 +1,5 @@
 🚆 AI-Based Railway Track Crack Detection Robot using YOLOv5
+
 📌 Overview
 
 This project presents an autonomous railway track inspection system that detects cracks in real-time using deep learning and embedded systems. The system combines an ESP32-based robotic platform with a Raspberry Pi running YOLOv5 to ensure accurate and efficient defect detection.
